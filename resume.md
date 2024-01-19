@@ -1,5 +1,7 @@
 # Katelyn Saechao
 
+Hi, this is a practice edit!
+
 ![Picture of me from Husky 100 photo shoot](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/124/2023/04/17130748/Katelyn-Saechao_20230328-1022-200x300.jpg)
 
 Email: katesae@uw.edu
