@@ -75,6 +75,7 @@ http://www.linkedin.com/in/katelyn-saechao
 # Additional Links
 
 >[Husky 100 Profile](https://www.washington.edu/husky100/#name=katelyn-saechao)
+>> "Through UW, I have been granted valuable experiences where I worked towards achieving equity in my community and strived for growth as an advocate. As a Southeast Asian woman in STEM, I ultimately hope to encourage others from marginalized backgrounds to reach for their dreams despite the trials and tribulations they may encounter along the way. Although my Husky experience was initially filled with many obstacles and redirected paths, I can say with certainty that I am finally where I belong and I will continue to fight for the equity and environmental justice that my south Seattle community deserves."
 
 >[Environmental Studies Capstone Abstract](http://www.univ2.edu)
 
