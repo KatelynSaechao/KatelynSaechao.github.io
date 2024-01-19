@@ -2,11 +2,11 @@
 
 ![Picture of me from Husky 100 photo shoot](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/124/2023/04/17130748/Katelyn-Saechao_20230328-1022-200x300.jpg)
 
-katesae@uw.edu
+Email: katesae@uw.edu
 
-http://www.katelynsaechao.github.io/portfolio/
+[Portfolio](http://www.katelynsaechao.github.io/portfolio/)
 
-http://www.linkedin.com/in/katelyn-saechao
+[LinkedIn](http://www.linkedin.com/in/katelyn-saechao)
 
 
 # Education
