@@ -3730,21 +3730,21 @@ textarea.form-control-lg {
 .navbar {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
-  --bs-navbar-color: #a264c5;
+  --bs-navbar-color: #ffffff;
   --bs-navbar-hover-color:#ffffff;
   --bs-navbar-disabled-color: #ffffff;
   --bs-navbar-active-color: #ffffff;
   --bs-navbar-brand-padding-y: 0.3125rem;
   --bs-navbar-brand-margin-end: 1rem;
   --bs-navbar-brand-font-size: 1.25rem;
-  --bs-navbar-brand-color: #a264c5;
+  --bs-navbar-brand-color: #ffffff;
   --bs-navbar-brand-hover-color: #ffffff;
   --bs-navbar-nav-link-padding-x: 0.5rem;
   --bs-navbar-toggler-padding-y: 0.25rem;
   --bs-navbar-toggler-padding-x: 0.75rem;
   --bs-navbar-toggler-font-size: 1.25rem;
   --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
-  --bs-navbar-toggler-border-color: #a264c5;
+  --bs-navbar-toggler-border-color: #ffffff;
   --bs-navbar-toggler-border-radius: 0.375rem;
   --bs-navbar-toggler-focus-width: 0.25rem;
   --bs-navbar-toggler-transition: box-shadow 0.15s ease-in-out;
@@ -4144,7 +4144,7 @@ textarea.form-control-lg {
   --bs-navbar-hover-color: #ffffff;
   --bs-navbar-disabled-color: #a264c5;
   --bs-navbar-active-color: #a264c5;
-  --bs-navbar-brand-color: #a264c5;
+  --bs-navbar-brand-color: #ffffff;
   --bs-navbar-brand-hover-color: #fff;
   --bs-navbar-toggler-border-color: #a264c5;
   --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
